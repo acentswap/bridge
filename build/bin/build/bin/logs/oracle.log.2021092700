@@ -1,0 +1,3 @@
+{"level":"warning","msg":"suggest specify '--datadir' to enhance accept job","time":"2021-09-27T09:12:29.824"}
+{"level":"info","msg":"Config file is build/bin/config.toml","time":"2021-09-27T09:12:29.824"}
+{"level":"fatal","msg":"LoadConfig error: config file build/bin/config.toml not exist","time":"2021-09-27T09:12:29.824"}

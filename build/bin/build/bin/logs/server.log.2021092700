@@ -1,0 +1,2 @@
+{"level":"info","msg":"Config file is build/bin/config.toml","time":"2021-09-27T09:11:17.433"}
+{"level":"fatal","msg":"LoadConfig error: config file build/bin/config.toml not exist","time":"2021-09-27T09:11:17.433"}
